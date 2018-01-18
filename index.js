@@ -1,8 +1,8 @@
-function shout(x) {
-  return x.toUpperCase()
+function shout(a) {
+  return a.toUpperCase()
 }
 
-function whisper(y) {
-  return y.toLowerCase()
+function whisper(b) {
+  return b.toLowerCase()
 }
 
